@@ -20,7 +20,7 @@ Front servo goes to pin 3
 
 Back servo goes to pin 4
 
-Power and ground can all be connected.(The arduino pro does allow voltage of upto 12v. so feed free to use HV servos if you please!)
+Power and ground can all be connected.(The arduino pro does allow voltage of upto 12v. So feel free to use HV servos if you please!)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Testing:
