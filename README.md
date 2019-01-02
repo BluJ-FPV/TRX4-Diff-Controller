@@ -22,3 +22,14 @@ Back servo goes to pin 4
 
 Power and ground can all be connected.(The arduino pro does allow voltage of upto 12v. so feed free to use HV servos if you please!)
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Testing:
+The LED onboard will act as follows
+
+solid for position 1
+
+slow flash to position 2
+
+fast flash for position 3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
